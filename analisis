@@ -1,0 +1,92 @@
+Company Profile
+Nama Aplikasi: KaryaKita
+
+Deskripsi Singkat:
+KaryaKita adalah aplikasi mobile yang memudahkan seniman pelukis untuk menjual dan membeli perlengkapan seni seperti kanvas, cat, kuas, dan alat pendukung lainnya. Aplikasi ini juga menyediakan platform bagi agen distribusi untuk mengelola stok dan transaksi.
+
+Visi:
+Menjadi platform terdepan dalam memenuhi kebutuhan perlengkapan seni bagi seniman pelukis di Indonesia.
+
+Misi:
+
+Menyediakan produk berkualitas dengan harga terjangkau.
+
+Memudahkan proses distribusi dan transaksi antara seniman dan agen.
+
+Mendorong kreativitas seniman melalui akses mudah ke perlengkapan seni.
+
+Latar Belakang Kebutuhan Aplikasi:
+Seniman pelukis sering kesulitan menemukan perlengkapan seni yang lengkap dan berkualitas. Selain itu, agen distribusi kesulitan mengelola stok dan transaksi secara efisien. KaryaKita hadir untuk menjembatani kebutuhan ini dengan solusi digital yang terintegrasi.
+
+2. Analisis
+Identifikasi Masalah:
+
+Kesulitan seniman dalam menemukan perlengkapan seni yang lengkap dan berkualitas.
+
+Proses distribusi dan transaksi yang tidak efisien.
+
+Kurangnya platform khusus untuk seniman pelukis.
+
+Target Pengguna:
+
+Seniman pelukis (pembeli).
+
+Agen distribusi perlengkapan seni (penjual).
+
+Admin yang mengelola sistem.
+
+Fitur Utama:
+
+Pencarian produk berdasarkan kategori (kanvas, cat, kuas, dll.).
+
+Sistem pemesanan dan pembayaran.
+
+Manajemen stok dan transaksi untuk agen.
+
+Dashboard admin untuk monitoring penjualan dan distribusi.
+
+Studi Kompetitor:
+
+Contoh kompetitor: Toko seni online seperti Blick Art Materials atau ArtStation Store.
+
+Kelebihan KaryaKita: Fokus pada seniman pelukis dan integrasi dengan agen distribusi lokal.
+
+3. Backend
+API untuk Mengelola Data Agen Distribusi:
+Buat endpoint API untuk CRUD (Create, Read, Update, Delete) data agen, produk, dan transaksi.
+
+Database:
+Gunakan Firebase Firestore atau MongoDB untuk menyimpan data produk, agen, dan transaksi.
+
+Integrasi Authentication:
+Gunakan Firebase Auth untuk login dan registrasi pengguna (seniman, agen, dan admin).
+
+4. Dashboard Controller
+Halaman Admin:
+
+Fitur:
+
+Kelola data agen dan produk.
+
+Lihat statistik penjualan dan distribusi.
+
+Monitor transaksi.
+
+Teknologi:
+
+Bisa dibuat dengan Flutter (mobile) atau React.js (web).
+
+5. Aplikasi Mobile
+Desain Tampilan Utama:
+
+Gunakan tema kreatif dengan warna-warna yang menarik dan elemen artistik.
+
+Tambahkan animasi sederhana untuk meningkatkan pengalaman pengguna.
+
+Fitur Pencarian Produk/Agen:
+
+Implementasikan fitur pencarian dengan filter berdasarkan kategori, harga, atau lokasi.
+
+Sistem Pemesanan:
+
+Buat alur pemesanan yang mudah, mulai dari pemilihan produk, keranjang belanja, hingga pembayaran.

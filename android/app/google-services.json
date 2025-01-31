@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614177920942",
+    "project_id": "pemrograman-mobile-321e0",
+    "storage_bucket": "pemrograman-mobile-321e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614177920942:android:25f9256f63d065f4001a3f",
+        "android_client_info": {
+          "package_name": "com.example.pert4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6eiRb8ar2kMJGa7ilccgvmtKPelRPA94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614177920942:android:f5f5a78e56fcf42d001a3f",
+        "android_client_info": {
+          "package_name": "my.id.olanmaxrin.pert6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6eiRb8ar2kMJGa7ilccgvmtKPelRPA94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
